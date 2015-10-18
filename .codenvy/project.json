@@ -1,0 +1,1 @@
+{"builders":{"configs":{},"default":"maven"},"mixinTypes":["factory"],"runners":{"configs":{"system:/java/web/glassfish4":{"ram":0,"variables":{},"options":{}}},"default":"project:/wildfly"},"type":"maven","attributes":{"sourceFactoryId":["h7yq7nqzfa7ghhqh"],"languageVersion":["1.6"],"language":["java"]},"description":"Project skeleton for my-memo"}
